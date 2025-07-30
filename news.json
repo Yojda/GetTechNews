@@ -10,9 +10,14 @@
         "rss": null
     },
     {
-        "name": "Cursor",
-        "url": "https://cursor.com/blog",
+        "name": "Adobe",
+        "url": "https://news.adobe.com/news",
         "rss": null
+    },
+    {
+        "name": "PokerNews",
+        "url": "https://fr.pokernews.com/news/",
+        "rss": "https://fr.pokernews.com/rss.php"
     },
     {
         "name": "Winamax",
